@@ -19,4 +19,5 @@ public class Employee {
     private String name;
     private Integer age;
     private double salary;
+    private boolean true;
 }
