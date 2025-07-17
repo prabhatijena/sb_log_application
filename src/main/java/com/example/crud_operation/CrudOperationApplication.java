@@ -10,10 +10,9 @@ public class CrudOperationApplication {
 		SpringApplication.run(CrudOperationApplication.class, args);
                 int a = 10;
                 int j = 20;
-
-                doubel d = 50.00;
-
-		String name = "Prabhati";
+                doubel d = 50.
+                String name = "Prabhati";
+                int c = 40;
 
 	}
 
