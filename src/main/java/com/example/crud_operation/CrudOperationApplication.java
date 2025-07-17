@@ -12,7 +12,11 @@ public class CrudOperationApplication {
                 int j = 20;
                 doubel d = 50.
                 String name = "Prabhati";
-                int c = 40;
+                int c = 40
+                doubel d = 50.00;
+                String name = "Prabhati";
+		boolean status = false;
+
 
 	}
 
